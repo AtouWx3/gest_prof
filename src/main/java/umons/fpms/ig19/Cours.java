@@ -24,7 +24,7 @@ public class Cours {
     public Cours(String intitule, String duree, int prof) {
         this.intitule = intitule;
         this.duree = duree;
-        this.prof = prof;
+        this.prof = prof; //test
     }
 
     public Cours(String intitule, String duree) {
